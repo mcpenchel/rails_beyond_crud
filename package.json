@@ -1,0 +1,7 @@
+{
+  "name": "rails_beyond_crud",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
